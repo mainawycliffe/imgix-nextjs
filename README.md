@@ -1,6 +1,6 @@
 # Imgix NextJS Images Library
 
-Objective:
+## Objective:
 
 - [ ] Responsive Images 
   - Generates Responsive Images Using Src Set
